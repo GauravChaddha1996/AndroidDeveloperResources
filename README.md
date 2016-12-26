@@ -9,3 +9,6 @@ Resources about Android Development
 
 ## Dependency Injection
 * [For Basic DI understanding](http://ganeshtiwaridotcomdotnp.blogspot.in/2011/05/understanding-dependency-injection-and.html)
+
+## App production testing
+* [Stress testing android apps](https://medium.com/@mgazar/stress-testing-android-apps-601311ebf590#.k4k0rm810) 
