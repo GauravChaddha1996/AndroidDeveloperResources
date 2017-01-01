@@ -40,6 +40,8 @@ Resources about Android Development
 
 ## Kotlin
 * [Why Kotlin is my next programming language](https://medium.freecodecamp.com/why-kotlin-is-my-next-programming-language-c25c001e26e3#.4y7le31ke)
+* [Why You Must Try Kotlin For Android Development ?](https://blog.mindorks.com/why-you-must-try-kotlin-for-android-development-e14d00c8084b#.edop4kxn9)
+* [How Kotlin became our primary language for Android](https://medium.com/uptech-team/how-kotlin-became-our-primary-language-for-android-3af7fd6a994c#.plzqclif7)
 * [Jake Wharton - Using Project Kotlin for android](https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/edit#heading=h.v6i4iyf7kkxh)
 * [Is kotlin another buzzword](https://www.reddit.com/r/androiddev/comments/5fdz4a/is_kotlin_another_buzzword/)
 * [Antonio leiva Kotlin](https://antonioleiva.com/kotlin/)
@@ -48,6 +50,8 @@ Resources about Android Development
 * [RxAndroid and Kotlin (Part 1)](https://medium.freecodecamp.com/rxandroid-and-kotlin-part-1-f0382dc26ed8#.v3iehee6v)
 * [Kotlin : Retrofit + RxAndroid + Realm](https://medium.com/@ahmedrizwan/kotlin-retrofit-rxandroid-realm-39d7be5dc9dc#.8y60zqht7)
 * [Keddit - Learn kotlin making the reddit app in kotlin](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664#.c3opwtfsm)
+* [A glimpse of Async-Await on Android](https://medium.com/@haarman.niek/async-await-in-android-f0202cf31088#.powk38ajh)
+* [A dive into Async-Await on Android](https://medium.com/@haarman.niek/a-dive-into-async-await-on-android-5a6699029aa3#.1rr6wtuee)
 
 
 ## Testing
