@@ -1,6 +1,8 @@
 # Android Developer Resources
 Resources about Android Development
 
+#Table of Content
+* [Android app architecture](# Android app architecture)
 
 ## Android app architecture
 * [Shades of mvvm](https://www.bignerdranch.com/blog/shades-of-mvvm/)
