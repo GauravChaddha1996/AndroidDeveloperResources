@@ -6,12 +6,14 @@ Resources about Android Development
 ### Structure
 * [Android app architecture](#android-app-architecture)
 * [MVP resources](#mvp-resources)
+
 ### Development patterns, practises and security
 * [Java 8](#java-8)
 * [Data Binding](#data-binding)
 * [Dependency Injection](#dependency-injection)
 * [Good Practises](#good-practises)
 * [Android Security](#android-security)
+
 ### Networking
 * [Retrofit](#retrofit)
 * [Networking](#networking)
@@ -20,46 +22,43 @@ Resources about Android Development
 * [RxJava](#rxjava)
 * [Kotlin](#kotlin)
 
-## Views, Layouts, Animations and Custom views
+### Views, Layouts, Animations and Custom views
 * [Animation and Vector Drawable's stuff](#animation-and-vector-drawables-stuff)
 * [Recycler View](#recycler-view)
 * [Making Custom Library and Views](#making-custom-library-and-views)
 
-## Application helper tasks
+### Application helper tasks
 * [Login and Account Authentication](#login-and-account-authentication)
 * [Settings and Preferences](#settings-and-preferences)
 * [Scheduling Jobs and alarms](#scheduling-jobs-and-alarms)
 * [Audio in android](#audio-in-android)
 
-## App analytics
+### App analytics
 * [App analytics](#app-analytics)
 
-## Testing - Unit and prodcution tests
+### Testing - Unit and prodcution tests
 * [Testing](#testing)
 * [App production testing](#app-production-testing)
 
-## Git Resources
+### Git Resources
 * [Git Resources](#git-resources)
 
-## Open Source and stuff
+### Open Source and stuff
 * [Open Source and stuff](#open-source-and-stuff)
 
-## Libraries
+### Libraries
 * [Utility and design libraries](#utility-and-design-libraries)
 
-## Proguard
+### Proguard
 * [Proguard](#proguard)
 * [Tools for reversing apk for educational purposes](#tools-for-reversing-apk-for-educational-purposes)
 
-## Miscellaneous
+### Miscellaneous
 * [Miscellaneous](#miscellaneous)
-
-
-
 
 #Structure
 
-## Android app architecture
+### Android app architecture
 * [Shades of mvvm](https://www.bignerdranch.com/blog/shades-of-mvvm/)
 * [RxJava: Android MVVM app structure with retrofit](https://medium.com/@manuelvicnt/rxjava-android-mvvm-app-structure-with-retrofit-a5605fa32c00#.n1dgvzdjo)
 * [RxJava 2: Android MVVM Lifecycle App Structure with Retrofit 2](https://medium.com/@manuelvicnt/rxjava2-android-mvvm-lifecycle-app-structure-with-retrofit-2-cf903849f49e#.hb69pqls3)
@@ -69,7 +68,7 @@ Resources about Android Development
 * [Offline App Architecture: how to build for the next billion](https://hackernoon.com/so-you-want-to-develop-for-the-next-billion-9eb072c26bc8#.eoverdgtl)
 * [Package by feature, not layers!](https://medium.com/@cesarmcferreira/package-by-features-not-layers-2d076df1964d#.h4yypl78m)
 
-## MVP resources
+### MVP resources
 * [Yet another MVP article — Part 1: Lets get to know the project](https://hackernoon.com/yet-another-mvp-article-part-1-lets-get-to-know-the-project-d3fd553b3e21#.m8tr2xvgw)
 
 #Development patterns, practises and security
@@ -79,10 +78,10 @@ Resources about Android Development
 * [Java 8 Language Features on Android](https://medium.com/@muratcanbur/java-8-language-features-on-android-ee8ea414f9f0#.izr0humg0)
 * [Effective Java for Android cheatsheet](https://medium.com/rocknnull/effective-java-for-android-cheatsheet-bf4e3433889a#.zsn2ir0zb)
 
-## Data Binding 
+### Data Binding 
 * [Android Data binding by Boyar Mount](https://realm.io/news/data-binding-android-boyar-mount/)
 
-## Dependency Injection
+### Dependency Injection
 * [For Basic DI understanding](http://ganeshtiwaridotcomdotnp.blogspot.in/2011/05/understanding-dependency-injection-and.html)
 * [Snorkeling with Dagger2](https://github.com/konmik/konmik.github.io/wiki/Snorkeling-with-Dagger-2)
 * [Fernando Cejas: Tasting Dagger 2 on android](http://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)
@@ -90,7 +89,7 @@ Resources about Android Development
 * [Inject everything Dagger 2 example](http://frogermcs.github.io/inject-everything-viewholder-and-dagger-2-example/)
 * [Introduction to Dagger 2, Using Dependency Injection in Android](https://blog.mindorks.com/introduction-to-dagger-2-using-dependency-injection-in-android-part-1-223289c2a01b#.4cae8wf66)
 
-## Good Practises
+### Good Practises
 * [Making android app faster](https://medium.com/@jorgemf/making-your-android-app-faster-735328eaba25#.86ddkca4d)
 * [Android process kill and big implications for your app](https://medium.com/inloop/android-process-kill-and-the-big-implications-for-your-app-1ecbed4921cb#.8kr1hg4jd)
 * [Your presenters don’t need all those lifecycle events!](https://medium.com/@anupcowkur/your-presenters-dont-need-all-those-lifecycle-events-721f500eeef4#.bi7q3jbo0)
@@ -101,7 +100,7 @@ Resources about Android Development
 * [Nisrulz android tips and tricks](https://github.com/nisrulz/android-tips-tricks)
 * [Successful XML naming convention](http://jeroenmols.com/blog/2016/03/07/resourcenaming/)
 
-## Android Security
+### Android Security
 * [How To Make Your Android Application Secured](https://medium.com/uptech-team/how-to-make-your-android-application-secured-21c054b371e7#.vonbsiw88)
 * [Devknox – Autocorrect for Security Issues](https://blog.devknox.io/devknox-autocorrect-for-security-issues/)
 * [Hiding Secrets in Android Apps](https://rammic.github.io/2015/07/28/hiding-secrets-in-android-apps/)
@@ -109,17 +108,17 @@ Resources about Android Development
 
 #Networking
 
-## Retrofit
+### Retrofit
 * [Basic Retrofit by vogella](http://www.vogella.com/tutorials/Retrofit/article.html)
 * [Explore this wiki for more Retrofit stuff](https://github.com/square/retrofit/wiki)
 
-## Networking
+### Networking
 * [Networking caching pattern with RxJava](http://www.andevcon.com/news/rxify-the-anti-cache-then-network-or-network-then-cache-problem)
 * [OkHttp is quietly retrying requests. Is your API ready?](https://medium.com/inloop/okhttp-is-quietly-retrying-requests-is-your-api-ready-19489ef35ace#.ifu68kx4z)
 
 #RxJava and Kotlin
 
-## RxJava
+### RxJava
 * [Understanding why you need RxJava and some related terminology](https://medium.com/@Batdroid/understanding-the-enigma-of-rxjava-part-1-8e04a456d9de)
 * [Why should I do Functional Reative Programming](https://medium.com/@cesarmcferreira/why-you-should-be-doing-functional-reactive-programming-858bd9bb8001#.y8p1je1o5)
 * [Dan Lew's Grokking RxJava Series](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
@@ -144,7 +143,7 @@ Resources about Android Development
 * [Pacoworks: Fully Reactive apps](http://www.pacoworks.com/2016/11/02/fully-reactive-apps-at-droidcon-uk-2016-2/)
 * [RxRecipes - wrap your way to Rx](https://hackernoon.com/rxrecipes-wrap-your-way-to-rx-fd40eb5254b6#.krpuhkmeu)
 
-## Kotlin
+### Kotlin
 * [Why Kotlin is my next programming language](https://medium.freecodecamp.com/why-kotlin-is-my-next-programming-language-c25c001e26e3#.4y7le31ke)
 * [Why You Must Try Kotlin For Android Development ?](https://blog.mindorks.com/why-you-must-try-kotlin-for-android-development-e14d00c8084b#.edop4kxn9)
 * [How Kotlin became our primary language for Android](https://medium.com/uptech-team/how-kotlin-became-our-primary-language-for-android-3af7fd6a994c#.plzqclif7)
@@ -161,7 +160,7 @@ Resources about Android Development
 
 #Views, Layouts, Animations and Custom views
 
-## Animation and Vector Drawable's stuff
+### Animation and Vector Drawable's stuff
 * [Animated icons on Android by using vector drawables](https://stories.uplabs.com/animated-icons-on-android-ee635307bd6#.969srmak8)
 * [AnimatedVectorDrawableCompat by Bartek Lipinski](https://android.jlelse.eu/animatedvectordrawablecompat-3d9568727c53#.xde3feipq)
 * [Introductio to icon animation techniques](http://www.androiddesignpatterns.com/2016/11/introduction-to-icon-animation-techniques.html)
@@ -173,7 +172,7 @@ Resources about Android Development
 * [Great animations with PageTransformer](https://medium.com/@BashaChris/the-android-viewpager-has-become-a-fairly-popular-component-among-android-apps-its-simple-6bca403b16d4#.dhixt7apg)
 * [Shared Element Transitions Between Views (not Activities or Fragments)](http://stackoverflow.com/questions/28386397/shared-element-transitions-between-views-not-activities-or-fragments)
 
-## Recycler View
+### Recycler View
 * [For Different Items in Recycler View](https://medium.com/@dpreussler/writing-better-adapters-1b09758407d2#.shhat9mq3)
 * [Simplifying RecyclerView Adapters with Rx & Databinding](https://medium.freecodecamp.com/simplifying-recyclerview-adapters-with-rx-databinding-f02ebed0b386#.9n0pc14sw)
 * [Writing Better Adapters](https://medium.com/@dpreussler/writing-better-adapters-1b09758407d2#.dtk5p1qxq)
@@ -182,7 +181,7 @@ Resources about Android Development
 * [RecyclerView Tips: How we achieved 60 FPS in Workable’s Android Recruiting App](https://blog.workable.com/recyclerview-achieved-60-fps-workables-android-app-tips/)
 * [Epoxy: Airbnb’s View Architecture on Android](https://medium.com/airbnb-engineering/epoxy-airbnbs-view-architecture-on-android-c3e1af150394#.mw0vh53zr)
 
-## Making Custom Library and Views
+### Making Custom Library and Views
 * [A deep dive into android view constructors](http://blog.danlew.net/2016/07/19/a-deep-dive-into-android-view-constructors/)
 * [How to draw a custom view](https://hackernoon.com/android-draw-a-custom-view-ef79fe2ff54b#.dei8shybf)
 * [Make an android custom view, publish and open source](https://medium.com/dualcores-studio/make-an-android-custom-view-publish-and-open-source-99a3d86df228#.bnjjtd54i)
@@ -193,29 +192,29 @@ Resources about Android Development
 
 #Application helper tasks
 
-## Login and Account Authentication
+### Login and Account Authentication
 * [Refer to This github rxjava project for login-registration demo code](https://github.com/manuelvicnt/RxJava-android-structure)
 * [Improving sign-in experience with Google Sign-In and SmartLock] (https://medium.com/@p.tournaris/android-improving-sign-in-experience-with-google-sign-in-and-smartlock-f0bfd789602a#.g7mzdbq8i)
 * [Tells using android account manager to add auth-token account verification](http://www.pilanites.com/android-account-manager/)	
 
-## Settings and Preferences
+### Settings and Preferences
 * [OnePref library for making settings](https://android.jlelse.eu/one-pref-for-androids-pride-b254e79f7d88#.bky7jvwbx)
 
-## Scheduling Jobs and alarms
+### Scheduling Jobs and alarms
 * [Scheduling jobs like a pro with JobScheduler](https://medium.com/google-developers/scheduling-jobs-like-a-pro-with-jobscheduler-286ef8510129#.bjva7oevj)
 * [Alarms in android and effect of doze on them](http://pguardiola.com/blog/darealfragmentation-alarms/)
 
-## Audio in android
+### Audio in android
 * [Audio (not) playing in Android](https://medium.com/uptech-team/audio-not-playing-in-android-cde9a0fdfafd#.q9u3ivu0q)
 * [Create an Audio Recorder on Android](http://www.ssaurel.com/blog/create-an-audio-recorder-on-android/?utm_source=androiddevdigest)
 
 #App analytics
 
-## App analytics
+### App analytics
 * [The key concepts of app tracking for developers](https://medium.com/@sergii/the-key-concepts-of-app-tracking-for-developers-a11bebf1e65e#.2015w5bka)
 
 #Testing - Unit and production tests
-## Testing
+### Testing
 * [Dan lew's series on testing](http://blog.danlew.net/2013/12/16/testing_on_android_part_1_unit_tests/)
 * [Simple unit tests for android](https://stfalcon.com/en/blog/post/simple-unit-tests-for-android)
 * [Testing Asynchronous RxJava code with Mockito](https://medium.com/@fabioCollini/testing-asynchronous-rxjava-code-using-mockito-8ad831a16877#.7u4tkaa8l)
@@ -224,26 +223,26 @@ Resources about Android Development
 * [How Dagger2 helps in android espresso tests](http://www.ottodroid.net/?p=514&utm_source=Android+Weekly&utm_campaign=0edd406528-Android_Weekly_231&utm_medium=email&utm_term=0_4eb677ad19-0edd406528-337972929)
 * [The Do’s and Don’ts of Writing Test cases in Android](https://blog.mindorks.com/the-dos-and-don-ts-of-writing-test-cases-in-android-70f1b5dab3e1#.mmxzvio69)
 
-## App production testing
+### App production testing
 * [Stress testing android apps](https://medium.com/@mgazar/stress-testing-android-apps-601311ebf590#.k4k0rm810) 
 * [The Ultimate Pre-Release Checklist for Android App Success On Play Store](https://blog.aritraroy.in/the-ultimate-pre-release-checklist-for-android-app-success-on-play-store-cb0eb9f59ce9#.kvq5oq6me)
 
 #Git Resources
 
-## Git Resources
+### Git Resources
 * [Git-Play-Love](http://eulercoder.me/blog/open%20source/Git-Play-Love)
 * [Git workflow basics - Going above commit push pull](https://blog.codeminer42.com/git-workflow-basics-d405746f6205#.lwyhvlllv)
 
 #Open Source and stuff
 
-## Open Source and stuff
+### Open Source and stuff
 * [Getting started with Open Source](http://eulercoder.me/blog/open%20source/getting-started-with-open-source)
 * [How to get started with Open Source](https://www.hackerearth.com/getstarted-opensource/)
 * [How to find your first open source bug to fix](https://medium.freecodecamp.com/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.jtlai29uz)
 
 #Utility and design libraries
 
-## Utility and design libraries
+### Utility and design libraries
 * [Create chat heads like facebook messenger](https://medium.com/@kevalpatel2106/create-chat-heads-like-facebook-messenger-32f7f1a62064#.49f525don) 
 * [App entry feature discovery to teach user about the app](https://github.com/KeepSafe/TapTargetView)
 * [Library to create complex multi state animations](https://github.com/KeepSafe/MultiStateAnimation)
@@ -258,16 +257,16 @@ Resources about Android Development
 
 #Proguard
 
-## Proguard
+### Proguard
 * [Useful Proguard snippets](https://github.com/krschultz/android-proguard-snippets)
 
 #Tools for reversing apk for educational purposes
 
-## Tools for reversing apk for educational purposes
+### Tools for reversing apk for educational purposes
 * [A tool for reverse engineering Android apk files](https://github.com/iBotPeaches/Apktool)
 
 #Miscellaneous
 
-## Miscellaneous
+### Miscellaneous
 * [How To Learn With Open Source API Fundamentals](https://hackernoon.com/how-to-learn-with-open-source-api-fundamentals-1f886383b8e1#.ugnbbbjyl)
 
