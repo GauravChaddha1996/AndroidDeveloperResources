@@ -4,6 +4,9 @@ Resources about Android Development
 
 ## Android app architecture
 * [Shades of mvvm](https://www.bignerdranch.com/blog/shades-of-mvvm/)
+* [RxJava: Android MVVM app structure with retrofit](https://medium.com/@manuelvicnt/rxjava-android-mvvm-app-structure-with-retrofit-a5605fa32c00#.n1dgvzdjo)
+* [Android application architecture powered by RxJava](https://labs.ribot.co.uk/android-application-architecture-8b6e34acda65#.aif4u3g7r)
+
 
 ## Login and Account Authentication
 * [Tells using android account manager to add auth-token account verification](http://www.pilanites.com/android-account-manager/)	
@@ -48,8 +51,6 @@ Resources about Android Development
 * [Dan Lew: Error handling in RxJava](http://blog.danlew.net/2015/12/08/error-handling-in-rxjava/)
 * [Important RxJava Operators](https://medium.freecodecamp.com/rx-if-the-operators-could-speak-58567c4618f1#.ilsr3heh6)
 * [Server polling and retrying failed operations. With Retrofit and RxJava](https://medium.com/@v.danylo/server-polling-and-retrying-failed-operations-with-retrofit-and-rxjava-8bcc7e641a5a#.112bsh9w9)
-* [RxJava: Android MVVM app structure with retrofit](https://medium.com/@manuelvicnt/rxjava-android-mvvm-app-structure-with-retrofit-a5605fa32c00#.n1dgvzdjo)
-* [Android application architecture powered by RxJava](https://labs.ribot.co.uk/android-application-architecture-8b6e34acda65#.aif4u3g7r)
 * [Reactive MVP in theory](https://medium.com/@mvarnagiris/reactive-mvp-part-1-b751ce3e3246#.tlcjwub41)
 * [RxJava and RxBinding](https://guides.codepath.com/android/RxJava-and-RxBinding)
 * [Reactive Android UI programming with RxBinding](https://realm.io/news/donn-felker-reactive-android-ui-programming-with-rxbinding/)
