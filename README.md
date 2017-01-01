@@ -48,3 +48,12 @@ Resources about Android Development
 
 ## App production testing
 * [Stress testing android apps](https://medium.com/@mgazar/stress-testing-android-apps-601311ebf590#.k4k0rm810) 
+
+## Open Source and stuff
+* [Publishing libraries to maven](http://www.andevcon.com/news/publishing-android-libraries-to-maven?utm_source=androiddevdigest)
+* [Getting started with Open Source](http://eulercoder.me/blog/open%20source/getting-started-with-open-source)
+* [How to get started with Open Source](https://www.hackerearth.com/getstarted-opensource/)
+* [How to find your first open source bug to fix](https://medium.freecodecamp.com/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.jtlai29uz)
+
+## Git Resources
+* [Git-Play-Love](http://eulercoder.me/blog/open%20source/Git-Play-Love)
