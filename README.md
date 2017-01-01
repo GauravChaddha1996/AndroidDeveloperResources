@@ -38,6 +38,18 @@ Resources about Android Development
 * [Things to learn from introducing RxJava](https://medium.com/@MauroFrezza/3-things-i-have-learned-from-introducing-rxjava-in-my-app-933bd4ba397d#.9azm4ryl6)
 * [Pacoworks FRP Series(Can be advanced for a beginner)](http://www.pacoworks.com/intro-to-frp/)
 
+## Kotlin
+* [Why Kotlin is my next programming language](https://medium.freecodecamp.com/why-kotlin-is-my-next-programming-language-c25c001e26e3#.4y7le31ke)
+* [Jake Wharton - Using Project Kotlin for android](https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/edit#heading=h.v6i4iyf7kkxh)
+* [Is kotlin another buzzword](https://www.reddit.com/r/androiddev/comments/5fdz4a/is_kotlin_another_buzzword/)
+* [Antonio leiva Kotlin](https://antonioleiva.com/kotlin/)
+* [Codemotion FRP + Kotlin](https://drive.google.com/file/d/0BxCm4NRlzb3PWjNNaG1KS0Utckk/view)
+* [5 small things you probably don’t know about Kotlin](https://hackernoon.com/5-small-things-you-probably-dont-know-about-kotlin-255261940de6#.tzjpmvgh0)
+* [RxAndroid and Kotlin (Part 1)](https://medium.freecodecamp.com/rxandroid-and-kotlin-part-1-f0382dc26ed8#.v3iehee6v)
+* [Kotlin : Retrofit + RxAndroid + Realm](https://medium.com/@ahmedrizwan/kotlin-retrofit-rxandroid-realm-39d7be5dc9dc#.8y60zqht7)
+* [Keddit - Learn kotlin making the reddit app in kotlin](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664#.c3opwtfsm)
+
+
 ## Testing
 * [Dan lew's series on testing](http://blog.danlew.net/2013/12/16/testing_on_android_part_1_unit_tests/)
 * [Simple unit tests for android](https://stfalcon.com/en/blog/post/simple-unit-tests-for-android)
