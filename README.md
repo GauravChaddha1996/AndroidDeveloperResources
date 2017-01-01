@@ -2,12 +2,37 @@
 Resources about Android Development
 
 #Table of Content
+
+##Structure
+Views and layout
+Designing and styling views
+Adapter Views
+Custom views
+Interaction
+Navigation
+Networking and models
+Persistence
+Fragments
+Sensors and device sdks
+Services 
+Testing
+Libraries
+Production
+Workflow
+Contributing
+
 * [Android app architecture](#android-app-architecture)
+
 * [Login and Account Authentication](#login-and-account-authentication)
+
 * [Good Practises](#good-practises)
+
 * [Android Security](#android-security)
+
 * [MVP resources](#mvp-resources)
+
 * [Java 8](#java-8)
+
 * [Recycler View](#recycler-view)
 * [Dependency Injection](#dependency-injection)
 * [Settings and Preferences](#settings-and-preferences)
