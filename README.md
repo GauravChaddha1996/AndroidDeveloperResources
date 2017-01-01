@@ -2,15 +2,34 @@
 Resources about Android Development
 
 
+## Android app architecture
+* [Shades of mvvm](https://www.bignerdranch.com/blog/shades-of-mvvm/)
+
 ## Login and Account Authentication
 * [Tells using android account manager to add auth-token account verification](http://www.pilanites.com/android-account-manager/)	
 
 ## Recycler View
 * [For Different Items in Recycler View](https://medium.com/@dpreussler/writing-better-adapters-1b09758407d2#.shhat9mq3)
 * [Simplifying RecyclerView Adapters with Rx & Databinding](https://medium.freecodecamp.com/simplifying-recyclerview-adapters-with-rx-databinding-f02ebed0b386#.9n0pc14sw)
+* [Writing Better Adapters](https://medium.com/@dpreussler/writing-better-adapters-1b09758407d2#.dtk5p1qxq)
 
 ## Dependency Injection
 * [For Basic DI understanding](http://ganeshtiwaridotcomdotnp.blogspot.in/2011/05/understanding-dependency-injection-and.html)
+* [Snorkeling with Dagger2](https://github.com/konmik/konmik.github.io/wiki/Snorkeling-with-Dagger-2)
+* [Fernando Cejas: Tasting Dagger 2 on android](http://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)
+* [Dagger 2 by Antonio leiva](https://antonioleiva.com/dependency-injection-android-dagger-part-1/)
+* [Inject everything Dagger 2 example](http://frogermcs.github.io/inject-everything-viewholder-and-dagger-2-example/)
+
+## Scheduling Jobs and alarms
+* [Scheduling jobs like a pro with JobScheduler](https://medium.com/google-developers/scheduling-jobs-like-a-pro-with-jobscheduler-286ef8510129#.bjva7oevj)
+* [Alarms in android and effect of doze on them](http://pguardiola.com/blog/darealfragmentation-alarms/)
+
+## Audio in android
+* [Audio (not) playing in Android](https://medium.com/uptech-team/audio-not-playing-in-android-cde9a0fdfafd#.q9u3ivu0q)
+* [Create an Audio Recorder on Android](http://www.ssaurel.com/blog/create-an-audio-recorder-on-android/?utm_source=androiddevdigest)
+
+## Data Binding 
+* [Android Data binding by Boyar Mount](https://realm.io/news/data-binding-android-boyar-mount/)
 
 ## Retrofit
 * [Basic Retrofit by vogella](http://www.vogella.com/tutorials/Retrofit/article.html)
@@ -35,8 +54,10 @@ Resources about Android Development
 * [RxJava and RxBinding](https://guides.codepath.com/android/RxJava-and-RxBinding)
 * [Reactive Android UI programming with RxBinding](https://realm.io/news/donn-felker-reactive-android-ui-programming-with-rxbinding/)
 * [Improving UX with RxJava](https://lorentzos.com/improving-ux-with-rxjava-4440a13b157f#.nguy4cyi6)
+* [Reactive Views Retrying errors](https://medium.com/xing-engineering/reactive-views-retrying-errors-a59fffbd827f#.8oxbz7q0v)
 * [Things to learn from introducing RxJava](https://medium.com/@MauroFrezza/3-things-i-have-learned-from-introducing-rxjava-in-my-app-933bd4ba397d#.9azm4ryl6)
 * [Pacoworks FRP Series(Can be advanced for a beginner)](http://www.pacoworks.com/intro-to-frp/)
+* [Pacoworks: Fully Reactive apps](http://www.pacoworks.com/2016/11/02/fully-reactive-apps-at-droidcon-uk-2016-2/)
 
 ## Kotlin
 * [Why Kotlin is my next programming language](https://medium.freecodecamp.com/why-kotlin-is-my-next-programming-language-c25c001e26e3#.4y7le31ke)
@@ -64,6 +85,9 @@ Resources about Android Development
 * [Animations powered by RxJava](https://pspdfkit.com/blog/2016/android-animations-powered-by-rx-java/)
 * [Great animations with PageTransformer](https://medium.com/@BashaChris/the-android-viewpager-has-become-a-fairly-popular-component-among-android-apps-its-simple-6bca403b16d4#.dhixt7apg)
 
+## App analytics
+* [The key concepts of app tracking for developers](https://medium.com/@sergii/the-key-concepts-of-app-tracking-for-developers-a11bebf1e65e#.2015w5bka)
+
 
 ## Testing
 * [Dan lew's series on testing](http://blog.danlew.net/2013/12/16/testing_on_android_part_1_unit_tests/)
@@ -75,12 +99,25 @@ Resources about Android Development
 
 ## App production testing
 * [Stress testing android apps](https://medium.com/@mgazar/stress-testing-android-apps-601311ebf590#.k4k0rm810) 
+* [The Ultimate Pre-Release Checklist for Android App Success On Play Store](https://blog.aritraroy.in/the-ultimate-pre-release-checklist-for-android-app-success-on-play-store-cb0eb9f59ce9#.kvq5oq6me)
+
+## Making Custom Library and Views
+* [A deep dive into android view constructors](http://blog.danlew.net/2016/07/19/a-deep-dive-into-android-view-constructors/)
+* [How to draw a custom view](https://hackernoon.com/android-draw-a-custom-view-ef79fe2ff54b#.dei8shybf)
+* [Make an android custom view, publish and open source](https://medium.com/dualcores-studio/make-an-android-custom-view-publish-and-open-source-99a3d86df228#.bnjjtd54i)
+* [How to make and publish your android library](https://m.signalvnoise.com/how-i-built-my-first-android-open-source-library-and-how-you-can-too-8a731abbdd2a#.4g36dd5h7)
+* [Publishing libraries to maven](http://www.andevcon.com/news/publishing-android-libraries-to-maven?utm_source=androiddevdigest)
+* [Publishig android library aar to maven](http://www.vandalsoftware.com/post/52468430435/publishing-an-android-library-aar-to-a-maven)
+* [Guide to publishing your Android Library via MavenCentral](http://crushingcode.co/publish-your-android-library-via-mavencentral/)
 
 ## Open Source and stuff
-* [Publishing libraries to maven](http://www.andevcon.com/news/publishing-android-libraries-to-maven?utm_source=androiddevdigest)
 * [Getting started with Open Source](http://eulercoder.me/blog/open%20source/getting-started-with-open-source)
 * [How to get started with Open Source](https://www.hackerearth.com/getstarted-opensource/)
 * [How to find your first open source bug to fix](https://medium.freecodecamp.com/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.jtlai29uz)
 
 ## Git Resources
 * [Git-Play-Love](http://eulercoder.me/blog/open%20source/Git-Play-Love)
+* [Git workflow basics - Going above commit push pull](https://blog.codeminer42.com/git-workflow-basics-d405746f6205#.lwyhvlllv)
+
+## Miscellaneous
+* [Create chat heads like facebook messenger](https://medium.com/@kevalpatel2106/create-chat-heads-like-facebook-messenger-32f7f1a62064#.49f525don) 
