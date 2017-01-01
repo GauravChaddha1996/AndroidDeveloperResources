@@ -53,6 +53,7 @@ Resources about Android Development
 * [Adventures with FragmentStatePagerAdapter](https://medium.com/inloop/adventures-with-fragmentstatepageradapter-4f56a643f8e0#.r2qtxvlg9)
 * [Guide to ConstraintLayout](https://medium.com/@loutry/guide-to-constraintlayout-407cd87bc013#.8wr4zts8q)
 * [Futurice - Best practices in Android development](https://github.com/futurice/android-best-practices)
+* [Nisrulz android tips and tricks](https://github.com/nisrulz/android-tips-tricks)
 * [Successful XML naming convention](http://jeroenmols.com/blog/2016/03/07/resourcenaming/)
 
 ## Android Security
@@ -122,6 +123,7 @@ Resources about Android Development
 * [Instacart Kaushik Gopal's: Subjects in RxJava](https://tech.instacart.com/how-to-think-about-subjects-part-1/)
 * [Dan Lew: Error handling in RxJava](http://blog.danlew.net/2015/12/08/error-handling-in-rxjava/)
 * [Important RxJava Operators](https://medium.freecodecamp.com/rx-if-the-operators-could-speak-58567c4618f1#.ilsr3heh6)
+* [RxMarbles site](http://rxmarbles.com/#concat)
 * [Server polling and retrying failed operations. With Retrofit and RxJava](https://medium.com/@v.danylo/server-polling-and-retrying-failed-operations-with-retrofit-and-rxjava-8bcc7e641a5a#.112bsh9w9)
 * [Reactive MVP in theory](https://medium.com/@mvarnagiris/reactive-mvp-part-1-b751ce3e3246#.tlcjwub41)
 * [RxJava and RxBinding](https://guides.codepath.com/android/RxJava-and-RxBinding)
