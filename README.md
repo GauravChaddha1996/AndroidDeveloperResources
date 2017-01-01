@@ -209,8 +209,6 @@ Resources about Android Development
 * [Create an Audio Recorder on Android](http://www.ssaurel.com/blog/create-an-audio-recorder-on-android/?utm_source=androiddevdigest)
 
 #App analytics
-
-### App analytics
 * [The key concepts of app tracking for developers](https://medium.com/@sergii/the-key-concepts-of-app-tracking-for-developers-a11bebf1e65e#.2015w5bka)
 
 #Testing - Unit and production tests
@@ -228,21 +226,15 @@ Resources about Android Development
 * [The Ultimate Pre-Release Checklist for Android App Success On Play Store](https://blog.aritraroy.in/the-ultimate-pre-release-checklist-for-android-app-success-on-play-store-cb0eb9f59ce9#.kvq5oq6me)
 
 #Git Resources
-
-### Git Resources
 * [Git-Play-Love](http://eulercoder.me/blog/open%20source/Git-Play-Love)
 * [Git workflow basics - Going above commit push pull](https://blog.codeminer42.com/git-workflow-basics-d405746f6205#.lwyhvlllv)
 
 #Open Source and stuff
-
-### Open Source and stuff
 * [Getting started with Open Source](http://eulercoder.me/blog/open%20source/getting-started-with-open-source)
 * [How to get started with Open Source](https://www.hackerearth.com/getstarted-opensource/)
 * [How to find your first open source bug to fix](https://medium.freecodecamp.com/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.jtlai29uz)
 
 #Utility and design libraries
-
-### Utility and design libraries
 * [Create chat heads like facebook messenger](https://medium.com/@kevalpatel2106/create-chat-heads-like-facebook-messenger-32f7f1a62064#.49f525don) 
 * [App entry feature discovery to teach user about the app](https://github.com/KeepSafe/TapTargetView)
 * [Library to create complex multi state animations](https://github.com/KeepSafe/MultiStateAnimation)
@@ -256,17 +248,11 @@ Resources about Android Development
 * [Repository for android animations Rx wrapper](https://github.com/0ximDigital/RxAnimations)
 
 #Proguard
-
-### Proguard
 * [Useful Proguard snippets](https://github.com/krschultz/android-proguard-snippets)
 
 #Tools for reversing apk for educational purposes
-
-### Tools for reversing apk for educational purposes
 * [A tool for reverse engineering Android apk files](https://github.com/iBotPeaches/Apktool)
 
 #Miscellaneous
-
-### Miscellaneous
 * [How To Learn With Open Source API Fundamentals](https://hackernoon.com/how-to-learn-with-open-source-api-fundamentals-1f886383b8e1#.ugnbbbjyl)
 
