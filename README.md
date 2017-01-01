@@ -2,7 +2,34 @@
 Resources about Android Development
 
 #Table of Content
-* [Android app architecture](# Android app architecture)
+* [Android app architecture](#android-app-architecture)
+* [Login and Account Authentication](#login-and-account-authentication)
+* [Good Practises](#good-practises)
+* [Android Security](#android-security)
+* [MVP resources](#mvp-resources)
+* [Java 8](#java-8)
+* [Recycler View](#recycler-view)
+* [Dependency Injection](#dependency-injection)
+* [Settings and Preferences](#settings-and-preferences)
+* [Scheduling Jobs and alarms](#scheduling-jobs-and-alarms)
+* [Audio in android](#audio-in-android)
+* [Data Binding](#data-binding)
+* [Retrofit](#retrofit)
+* [Networking](#networking)
+* [RxJava](#rxjava)
+* [Kotlin](#kotlin)
+* [Animation and Vector Drawable's stuff](#animation-and-vector-drawables-stuff)
+* [App analytics](#app-analytics)
+* [Testing](#testing)
+* [App production testing](#app-production-testing)
+* [Making Custom Library and Views](#making-custom-library-and-views)
+* [Open Source and stuff](#open-source-and-stuff)
+* [Git Resources](#git-resources)
+* [Android design and cool views](#android-design-and-cool-views)
+* [Miscellaneous](#miscellaneous)
+* [Tools for reversing apk for educational purposes](#tools-for-reversing-apk-for-educational-purposes)
+
+
 
 ## Android app architecture
 * [Shades of mvvm](https://www.bignerdranch.com/blog/shades-of-mvvm/)
