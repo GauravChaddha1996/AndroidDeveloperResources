@@ -3,18 +3,16 @@ Resources about Android Development
 
 #Table of Content
 
-## Structure
+### Structure
 * [Android app architecture](#android-app-architecture)
 * [MVP resources](#mvp-resources)
-
-## Development patterns, practises and security
+### Development patterns, practises and security
 * [Java 8](#java-8)
 * [Data Binding](#data-binding)
 * [Dependency Injection](#dependency-injection)
 * [Good Practises](#good-practises)
 * [Android Security](#android-security)
-
-## Networking
+### Networking
 * [Retrofit](#retrofit)
 * [Networking](#networking)
 
@@ -55,6 +53,9 @@ Resources about Android Development
 
 ## Miscellaneous
 * [Miscellaneous](#miscellaneous)
+
+
+
 
 #Structure
 
