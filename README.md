@@ -18,7 +18,7 @@ Resources about Android Development
 * [Retrofit](#retrofit)
 * [Networking](#networking)
 
-## RxJava and Kotlin
+### RxJava and Kotlin
 * [RxJava](#rxjava)
 * [Kotlin](#kotlin)
 
