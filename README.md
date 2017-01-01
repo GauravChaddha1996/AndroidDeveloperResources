@@ -28,6 +28,7 @@ Resources about Android Development
 * [Android design and cool views](#android-design-and-cool-views)
 * [Miscellaneous](#miscellaneous)
 * [Tools for reversing apk for educational purposes](#tools-for-reversing-apk-for-educational-purposes)
+* [Proguard](#proguard)
 
 
 
@@ -199,9 +200,23 @@ Resources about Android Development
 
 ## Android design and cool views
 * [Create chat heads like facebook messenger](https://medium.com/@kevalpatel2106/create-chat-heads-like-facebook-messenger-32f7f1a62064#.49f525don) 
+* [App entry feature discovery to teach user about the app](https://github.com/KeepSafe/TapTargetView)
+* [Library to create complex multi state animations](https://github.com/KeepSafe/MultiStateAnimation)
+* [Add curve at bottom of image views and relative layouts](https://github.com/developer-shivam/Crescento)
+* [To live blur images](https://github.com/wonderkiln/blurkit-android)
+* [Android 3D style Page Flip](https://github.com/eschao/android-PageFlip)
+* [Library to ask for permissions](https://github.com/Karumi/Dexter)
+* [Android library for animating the path created from text ](https://github.com/thoughtbot/stencil)
+* [A material-styled android view that provisions picking of a date, time & recurrence option, all from a single user-interface](https://github.com/vikramkakkar/SublimePicker)
+* [A utility library for scheduling periodic and non-periodic jobs efficiently](https://github.com/hypertrack/smart-scheduler-android)
+* [Repository for android animations Rx wrapper](https://github.com/0ximDigital/RxAnimations)
+
 
 ## Miscellaneous
 * [How To Learn With Open Source API Fundamentals](https://hackernoon.com/how-to-learn-with-open-source-api-fundamentals-1f886383b8e1#.ugnbbbjyl)
 
 ## Tools for reversing apk for educational purposes
 * [A tool for reverse engineering Android apk files](https://github.com/iBotPeaches/Apktool)
+
+## Proguard
+* [Useful Proguard snippets](https://github.com/krschultz/android-proguard-snippets)
