@@ -3,59 +3,55 @@ Resources about Android Development
 
 #Table of Content
 
-##Structure
-Views and layout
-Designing and styling views
-Adapter Views
-Custom views
-Interaction
-Navigation
-Networking and models
-Persistence
-Fragments
-Sensors and device sdks
-Services 
-Testing
-Libraries
-Production
-Workflow
-Contributing
-
+## Structure
 * [Android app architecture](#android-app-architecture)
-
-* [Login and Account Authentication](#login-and-account-authentication)
-
-* [Good Practises](#good-practises)
-
-* [Android Security](#android-security)
-
 * [MVP resources](#mvp-resources)
 
+## Development patterns, practises and security
 * [Java 8](#java-8)
-
-* [Recycler View](#recycler-view)
+* [Data Binding](#data-binding)
 * [Dependency Injection](#dependency-injection)
+* [Good Practises](#good-practises)
+* [Android Security](#android-security)
+
+## Networking
+* [Retrofit](#retrofit)
+* [Networking](#networking)
+
+## RxJava and Kotlin
+* [RxJava](#rxjava)
+* [Kotlin](#kotlin)
+
+## Views, Layouts, Animations and Custom views
+* [Animation and Vector Drawable's stuff](#animation-and-vector-drawables-stuff)
+* [Recycler View](#recycler-view)
+* [Making Custom Library and Views](#making-custom-library-and-views)
+
+## Application helper tasks
+* [Login and Account Authentication](#login-and-account-authentication)
 * [Settings and Preferences](#settings-and-preferences)
 * [Scheduling Jobs and alarms](#scheduling-jobs-and-alarms)
 * [Audio in android](#audio-in-android)
-* [Data Binding](#data-binding)
-* [Retrofit](#retrofit)
-* [Networking](#networking)
-* [RxJava](#rxjava)
-* [Kotlin](#kotlin)
-* [Animation and Vector Drawable's stuff](#animation-and-vector-drawables-stuff)
-* [App analytics](#app-analytics)
+
+## [App analytics](#app-analytics)
+
+## Testing - Unit and prodcutions
 * [Testing](#testing)
 * [App production testing](#app-production-testing)
-* [Making Custom Library and Views](#making-custom-library-and-views)
-* [Open Source and stuff](#open-source-and-stuff)
-* [Git Resources](#git-resources)
-* [Android design and cool views](#android-design-and-cool-views)
-* [Miscellaneous](#miscellaneous)
-* [Tools for reversing apk for educational purposes](#tools-for-reversing-apk-for-educational-purposes)
-* [Proguard](#proguard)
 
+## [Git Resources](#git-resources)
 
+## [Open Source and stuff](#open-source-and-stuff)
+
+## [Libraries: Android design and cool views](#android-design-and-cool-views)
+
+## [Proguard](#proguard)
+
+## [Tools for reversing apk for educational purposes](#tools-for-reversing-apk-for-educational-purposes)
+
+##[Miscellaneous](#miscellaneous)
+
+==============================================================================================================================================
 
 ## Android app architecture
 * [Shades of mvvm](https://www.bignerdranch.com/blog/shades-of-mvvm/)
@@ -65,6 +61,7 @@ Contributing
 * [Restoring state in android mvp architecture](https://pspdfkit.com/blog/2016/restoring-state-in-android-mvp-architecture/)
 * [Inloop Pragmatic android application architecture](https://medium.com/inloop/a-pragmatic-android-application-architecture-fecae198ecf8#.9d1bdy89l)
 * [Offline App Architecture: how to build for the next billion](https://hackernoon.com/so-you-want-to-develop-for-the-next-billion-9eb072c26bc8#.eoverdgtl)
+* [Package by feature, not layers!](https://medium.com/@cesarmcferreira/package-by-features-not-layers-2d076df1964d#.h4yypl78m)
 
 ## Login and Account Authentication
 * [Refer to This github rxjava project for login-registration demo code](https://github.com/manuelvicnt/RxJava-android-structure)
