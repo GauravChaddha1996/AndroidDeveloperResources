@@ -53,6 +53,17 @@ Resources about Android Development
 * [A glimpse of Async-Await on Android](https://medium.com/@haarman.niek/async-await-in-android-f0202cf31088#.powk38ajh)
 * [A dive into Async-Await on Android](https://medium.com/@haarman.niek/a-dive-into-async-await-on-android-5a6699029aa3#.1rr6wtuee)
 
+## Animation and Vector Drawable's stuff
+* [Animated icons on Android by using vector drawables](https://stories.uplabs.com/animated-icons-on-android-ee635307bd6#.969srmak8)
+* [AnimatedVectorDrawableCompat by Bartek Lipinski](https://android.jlelse.eu/animatedvectordrawablecompat-3d9568727c53#.xde3feipq)
+* [Introductio to icon animation techniques](http://www.androiddesignpatterns.com/2016/11/introduction-to-icon-animation-techniques.html)
+* [View animation and much more! by Ribot](https://labs.ribot.co.uk/exploring-meaningful-motion-on-android-1cd95a4bc61d#.n5gk8fhyu)
+* [Animation: Jump-through by Nick Butcher](https://medium.com/google-developers/animation-jump-through-861f4f5b3de4#.swky4np25)
+* [Jeremie Martinez: How we design a beautiful animation](http://jeremie-martinez.com/2016/09/15/train-animations/?utm_source=androiddevdigest)
+* [Transitions in the Android Support Library by Chet Haase](https://medium.com/google-developers/transitions-in-the-android-support-library-8bc86a1d688e#.o1yv84m4o)
+* [Animations powered by RxJava](https://pspdfkit.com/blog/2016/android-animations-powered-by-rx-java/)
+* [Great animations with PageTransformer](https://medium.com/@BashaChris/the-android-viewpager-has-become-a-fairly-popular-component-among-android-apps-its-simple-6bca403b16d4#.dhixt7apg)
+
 
 ## Testing
 * [Dan lew's series on testing](http://blog.danlew.net/2013/12/16/testing_on_android_part_1_unit_tests/)
