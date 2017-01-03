@@ -16,7 +16,7 @@ Resources about Android Development
 
 ### Networking
 * [Retrofit](#retrofit)
-* [Networking](#networking)
+* [Networking](#networking-2)
 
 ### RxJava and Kotlin
 * [RxJava](#rxjava)
