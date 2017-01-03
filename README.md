@@ -246,6 +246,7 @@ Resources about Android Development
 * [A material-styled android view that provisions picking of a date, time & recurrence option, all from a single user-interface](https://github.com/vikramkakkar/SublimePicker)
 * [A utility library for scheduling periodic and non-periodic jobs efficiently](https://github.com/hypertrack/smart-scheduler-android)
 * [Repository for android animations Rx wrapper](https://github.com/0ximDigital/RxAnimations)
+* [FAB custom view with horizonatal and vertical expanding.](https://github.com/HarinTrivedi/FABRevealMenu-master)
 
 #Proguard
 * [Useful Proguard snippets](https://github.com/krschultz/android-proguard-snippets)
@@ -256,3 +257,10 @@ Resources about Android Development
 #Miscellaneous
 * [How To Learn With Open Source API Fundamentals](https://hackernoon.com/how-to-learn-with-open-source-api-fundamentals-1f886383b8e1#.ugnbbbjyl)
 
+
+#To checkout or read
+* https://github.com/Quatja/Vorolay
+* https://github.com/ahmedeltaher/MVP-Sample
+* https://github.com/sjwall/MaterialTapTargetPrompt
+* https://github.com/mzelzoghbi/ZGallery
+* https://github.com/nntuyen/text-decorator
