@@ -99,6 +99,7 @@ Resources about Android Development
 * [Futurice - Best practices in Android development](https://github.com/futurice/android-best-practices)
 * [Nisrulz android tips and tricks](https://github.com/nisrulz/android-tips-tricks)
 * [Successful XML naming convention](http://jeroenmols.com/blog/2016/03/07/resourcenaming/)
+* [Things to consider before choosing implementation for worker thread](https://blog.yipl.com.np/things-to-consider-before-running-background-tasks-e71f00d2ad3a#.fe1auoxur)
 
 ### Android Security
 * [How To Make Your Android Application Secured](https://medium.com/uptech-team/how-to-make-your-android-application-secured-21c054b371e7#.vonbsiw88)
@@ -175,11 +176,12 @@ Resources about Android Development
 ### Recycler View
 * [For Different Items in Recycler View](https://medium.com/@dpreussler/writing-better-adapters-1b09758407d2#.shhat9mq3)
 * [Simplifying RecyclerView Adapters with Rx & Databinding](https://medium.freecodecamp.com/simplifying-recyclerview-adapters-with-rx-databinding-f02ebed0b386#.9n0pc14sw)
-* [Writing Better Adapters](https://medium.com/@dpreussler/writing-better-adapters-1b09758407d2#.dtk5p1qxq)
+* [Writing Better Adapters-Managing adapter having multiple items in a list](https://medium.com/@dpreussler/writing-better-adapters-1b09758407d2#.dtk5p1qxq)
 * [Pro Recycler View](https://realm.io/news/360andev-yigit-boyar-pro-recyclerview-android-ui-java/)
 * [RecyclerView Prefetch](https://medium.com/google-developers/recyclerview-prefetch-c2f269075710#.6t00v1oc5)
 * [RecyclerView Tips: How we achieved 60 FPS in Workable’s Android Recruiting App](https://blog.workable.com/recyclerview-achieved-60-fps-workables-android-app-tips/)
 * [Epoxy: Airbnb’s View Architecture on Android](https://medium.com/airbnb-engineering/epoxy-airbnbs-view-architecture-on-android-c3e1af150394#.mw0vh53zr)
+* [Grouping Data in recycler view](https://krtkush.github.io/2016/07/08/android-recyclerview-grouping-data.html)
 
 ### Making Custom Library and Views
 * [A deep dive into android view constructors](http://blog.danlew.net/2016/07/19/a-deep-dive-into-android-view-constructors/)
@@ -237,6 +239,7 @@ Resources about Android Development
 #Utility and design libraries
 * [Create chat heads like facebook messenger](https://medium.com/@kevalpatel2106/create-chat-heads-like-facebook-messenger-32f7f1a62064#.49f525don) 
 * [App entry feature discovery to teach user about the app](https://github.com/KeepSafe/TapTargetView)
+* [A Tap Target implementation in Android based on Material Design Onboarding guidelines. For more information on tap targets check out the guidelines.](https://github.com/sjwall/MaterialTapTargetPrompt)
 * [Library to create complex multi state animations](https://github.com/KeepSafe/MultiStateAnimation)
 * [Add curve at bottom of image views and relative layouts](https://github.com/developer-shivam/Crescento)
 * [To live blur images](https://github.com/wonderkiln/blurkit-android)
@@ -247,6 +250,16 @@ Resources about Android Development
 * [A utility library for scheduling periodic and non-periodic jobs efficiently](https://github.com/hypertrack/smart-scheduler-android)
 * [Repository for android animations Rx wrapper](https://github.com/0ximDigital/RxAnimations)
 * [FAB custom view with horizonatal and vertical expanding.](https://github.com/HarinTrivedi/FABRevealMenu-master)
+* [VoronoiView is a view (ViewGroup) that allows you to add and display views inside Voronoi diagram regions. Voronoi diagram](https://github.com/Quatja/Vorolay)
+* [Decorate TextView](https://github.com/nntuyen/text-decorator)
+* [ A wave-like loading drawable ](https://github.com/race604/WaveLoading)
+* [About screen libary](https://github.com/daniel-stoneuk/material-about-library)
+* [Custom BottomSheetBehavior for Android that mimic Google Maps behavior ](https://github.com/miguelhincapie/CustomBottomSheetBehavior)
+* [Animate your activity](https://github.com/ppamorim/Dragger)
+* [App intro library](https://github.com/apl-devs/AppIntro)
+* [Dynamic iOS-like blur of underlying Views for Android ](https://github.com/Dimezis/BlurView)
+* [Android library for async data loading from multiple sources](https://github.com/NYTimes/Store)
+* [An imageView can auto scroll with device rotating. ](https://github.com/gjiazhe/PanoramaImageView)
 
 #Proguard
 * [Useful Proguard snippets](https://github.com/krschultz/android-proguard-snippets)
@@ -259,8 +272,13 @@ Resources about Android Development
 
 
 #To checkout or read
-* https://github.com/Quatja/Vorolay
 * https://github.com/ahmedeltaher/MVP-Sample
-* https://github.com/sjwall/MaterialTapTargetPrompt
-* https://github.com/mzelzoghbi/ZGallery
-* https://github.com/nntuyen/text-decorator
+* https://github.com/grandcentrix/ThirtyInch
+* https://github.com/adonixis/android-animated-menu-items
+* https://github.com/Yalantis/Euclid
+* https://github.com/mapsme/api-android
+* https://github.com/inloop/AndroidViewModel
+* https://github.com/airbnb/AirMapView
+* https://github.com/andremion/Music-Player
+* https://github.com/mzule/FantasySlide
+* https://github.com/faizann24/wifi-bruteforcer-fsecurify
