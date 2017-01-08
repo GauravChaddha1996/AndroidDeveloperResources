@@ -279,3 +279,4 @@ Resources about Android Development
 * https://github.com/bassaer/ChatMessageView
 * https://github.com/NYTimes/Store
 * https://github.com/uber/rides-android-sdk
+* https://github.com/inloop/AndroidViewModel
