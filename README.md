@@ -281,3 +281,4 @@ Resources about Android Development
 * https://github.com/uber/rides-android-sdk
 * https://github.com/inloop/AndroidViewModel
 * https://github.com/gjiazhe/PanoramaImageView
+* https://github.com/airbnb/AirMapView
