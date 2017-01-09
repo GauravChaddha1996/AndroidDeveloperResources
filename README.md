@@ -285,3 +285,5 @@ Resources about Android Development
 * https://github.com/andremion/Music-Player
 * https://github.com/race604/WaveLoading
 * https://github.com/bufferapp/BufferTextInputLayout
+* https://github.com/mzule/FantasySlide
+* https://github.com/danielzeller/Depth-LIB-Android-
