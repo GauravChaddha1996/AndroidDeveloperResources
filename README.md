@@ -283,3 +283,5 @@ Resources about Android Development
 * https://github.com/gjiazhe/PanoramaImageView
 * https://github.com/airbnb/AirMapView
 * https://github.com/andremion/Music-Player
+* https://github.com/race604/WaveLoading
+* https://github.com/bufferapp/BufferTextInputLayout
