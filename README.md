@@ -99,6 +99,7 @@ Resources about Android Development
 * [Futurice - Best practices in Android development](https://github.com/futurice/android-best-practices)
 * [Nisrulz android tips and tricks](https://github.com/nisrulz/android-tips-tricks)
 * [Successful XML naming convention](http://jeroenmols.com/blog/2016/03/07/resourcenaming/)
+* [Things to consider before choosing implementation for worker thread](https://blog.yipl.com.np/things-to-consider-before-running-background-tasks-e71f00d2ad3a#.fe1auoxur)
 
 ### Android Security
 * [How To Make Your Android Application Secured](https://medium.com/uptech-team/how-to-make-your-android-application-secured-21c054b371e7#.vonbsiw88)
@@ -175,11 +176,12 @@ Resources about Android Development
 ### Recycler View
 * [For Different Items in Recycler View](https://medium.com/@dpreussler/writing-better-adapters-1b09758407d2#.shhat9mq3)
 * [Simplifying RecyclerView Adapters with Rx & Databinding](https://medium.freecodecamp.com/simplifying-recyclerview-adapters-with-rx-databinding-f02ebed0b386#.9n0pc14sw)
-* [Writing Better Adapters](https://medium.com/@dpreussler/writing-better-adapters-1b09758407d2#.dtk5p1qxq)
+* [Writing Better Adapters-Managing adapter having multiple items in a list](https://medium.com/@dpreussler/writing-better-adapters-1b09758407d2#.dtk5p1qxq)
 * [Pro Recycler View](https://realm.io/news/360andev-yigit-boyar-pro-recyclerview-android-ui-java/)
 * [RecyclerView Prefetch](https://medium.com/google-developers/recyclerview-prefetch-c2f269075710#.6t00v1oc5)
 * [RecyclerView Tips: How we achieved 60 FPS in Workable’s Android Recruiting App](https://blog.workable.com/recyclerview-achieved-60-fps-workables-android-app-tips/)
 * [Epoxy: Airbnb’s View Architecture on Android](https://medium.com/airbnb-engineering/epoxy-airbnbs-view-architecture-on-android-c3e1af150394#.mw0vh53zr)
+* [Grouping Data in recycler view](https://krtkush.github.io/2016/07/08/android-recyclerview-grouping-data.html)
 
 ### Making Custom Library and Views
 * [A deep dive into android view constructors](http://blog.danlew.net/2016/07/19/a-deep-dive-into-android-view-constructors/)
@@ -287,3 +289,5 @@ Resources about Android Development
 * https://github.com/bufferapp/BufferTextInputLayout
 * https://github.com/mzule/FantasySlide
 * https://github.com/danielzeller/Depth-LIB-Android-
+* https://medium.com/@andreworobator/implementing-android-app-shortcuts-74feb524959b#.z56nbm1o8
+* https://realm.io/news/gotocph-daniel-lew-efficient-android-layouts/
