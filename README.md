@@ -239,6 +239,7 @@ Resources about Android Development
 #Utility and design libraries
 * [Create chat heads like facebook messenger](https://medium.com/@kevalpatel2106/create-chat-heads-like-facebook-messenger-32f7f1a62064#.49f525don) 
 * [App entry feature discovery to teach user about the app](https://github.com/KeepSafe/TapTargetView)
+* [A Tap Target implementation in Android based on Material Design Onboarding guidelines. For more information on tap targets check out the guidelines.](https://github.com/sjwall/MaterialTapTargetPrompt)
 * [Library to create complex multi state animations](https://github.com/KeepSafe/MultiStateAnimation)
 * [Add curve at bottom of image views and relative layouts](https://github.com/developer-shivam/Crescento)
 * [To live blur images](https://github.com/wonderkiln/blurkit-android)
@@ -249,6 +250,16 @@ Resources about Android Development
 * [A utility library for scheduling periodic and non-periodic jobs efficiently](https://github.com/hypertrack/smart-scheduler-android)
 * [Repository for android animations Rx wrapper](https://github.com/0ximDigital/RxAnimations)
 * [FAB custom view with horizonatal and vertical expanding.](https://github.com/HarinTrivedi/FABRevealMenu-master)
+* [VoronoiView is a view (ViewGroup) that allows you to add and display views inside Voronoi diagram regions. Voronoi diagram](https://github.com/Quatja/Vorolay)
+* [Decorate TextView](https://github.com/nntuyen/text-decorator)
+* [ A wave-like loading drawable ](https://github.com/race604/WaveLoading)
+* [About screen libary](https://github.com/daniel-stoneuk/material-about-library)
+* [Custom BottomSheetBehavior for Android that mimic Google Maps behavior ](https://github.com/miguelhincapie/CustomBottomSheetBehavior)
+* [Animate your activity](https://github.com/ppamorim/Dragger)
+* [App intro library](https://github.com/apl-devs/AppIntro)
+* [Dynamic iOS-like blur of underlying Views for Android ](https://github.com/Dimezis/BlurView)
+* [Android library for async data loading from multiple sources](https://github.com/NYTimes/Store)
+* [An imageView can auto scroll with device rotating. ](https://github.com/gjiazhe/PanoramaImageView)
 
 #Proguard
 * [Useful Proguard snippets](https://github.com/krschultz/android-proguard-snippets)
@@ -261,35 +272,13 @@ Resources about Android Development
 
 
 #To checkout or read
-* https://github.com/Quatja/Vorolay
 * https://github.com/ahmedeltaher/MVP-Sample
-* https://github.com/sjwall/MaterialTapTargetPrompt
-* https://github.com/mzelzoghbi/ZGallery
-* https://github.com/nntuyen/text-decorator
 * https://github.com/grandcentrix/ThirtyInch
-* https://github.com/daniel-stoneuk/material-about-library
-* https://github.com/miguelhincapie/CustomBottomSheetBehavior
 * https://github.com/adonixis/android-animated-menu-items
-* https://github.com/ppamorim/Dragger
-* https://github.com/apl-devs/AppIntro
 * https://github.com/Yalantis/Euclid
-* https://github.com/sharish/SendEmailAnimation
-* https://github.com/ahmedaljazzar/rosetta
-* https://github.com/Dimezis/BlurView
 * https://github.com/mapsme/api-android
-* https://github.com/abacritt/sectionedmergeadapter
-* https://github.com/bassaer/ChatMessageView
-* https://github.com/NYTimes/Store
-* https://github.com/uber/rides-android-sdk
 * https://github.com/inloop/AndroidViewModel
-* https://github.com/gjiazhe/PanoramaImageView
 * https://github.com/airbnb/AirMapView
 * https://github.com/andremion/Music-Player
-* https://github.com/race604/WaveLoading
-* https://github.com/bufferapp/BufferTextInputLayout
 * https://github.com/mzule/FantasySlide
-* https://github.com/danielzeller/Depth-LIB-Android-
-* https://medium.com/@andreworobator/implementing-android-app-shortcuts-74feb524959b#.z56nbm1o8
-* https://realm.io/news/gotocph-daniel-lew-efficient-android-layouts/
-* https://github.com/sergn-n/GroupingRecyclerView
 * https://github.com/faizann24/wifi-bruteforcer-fsecurify
