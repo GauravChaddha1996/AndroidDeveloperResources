@@ -291,3 +291,5 @@ Resources about Android Development
 * https://github.com/danielzeller/Depth-LIB-Android-
 * https://medium.com/@andreworobator/implementing-android-app-shortcuts-74feb524959b#.z56nbm1o8
 * https://realm.io/news/gotocph-daniel-lew-efficient-android-layouts/
+* https://github.com/sergn-n/GroupingRecyclerView
+* https://github.com/faizann24/wifi-bruteforcer-fsecurify
