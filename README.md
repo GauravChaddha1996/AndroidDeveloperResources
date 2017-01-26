@@ -279,6 +279,4 @@ Resources about Android Development
 * https://github.com/mapsme/api-android
 * https://github.com/inloop/AndroidViewModel
 * https://github.com/airbnb/AirMapView
-* https://github.com/andremion/Music-Player
 * https://github.com/mzule/FantasySlide
-* https://github.com/faizann24/wifi-bruteforcer-fsecurify
