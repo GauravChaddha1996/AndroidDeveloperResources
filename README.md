@@ -88,6 +88,7 @@ Resources about Android Development
 * [Dagger 2 by Antonio leiva](https://antonioleiva.com/dependency-injection-android-dagger-part-1/)
 * [Inject everything Dagger 2 example](http://frogermcs.github.io/inject-everything-viewholder-and-dagger-2-example/)
 * [Introduction to Dagger 2, Using Dependency Injection in Android](https://blog.mindorks.com/introduction-to-dagger-2-using-dependency-injection-in-android-part-1-223289c2a01b#.4cae8wf66)
+* [Android Dagger2: Critical things to know before you implement.](https://blog.mindorks.com/android-dagger2-critical-things-to-know-before-you-implement-275663aecc3e#.crrgqwnbi)
 
 ### Good Practises
 * [Making android app faster](https://medium.com/@jorgemf/making-your-android-app-faster-735328eaba25#.86ddkca4d)
@@ -100,6 +101,8 @@ Resources about Android Development
 * [Nisrulz android tips and tricks](https://github.com/nisrulz/android-tips-tricks)
 * [Successful XML naming convention](http://jeroenmols.com/blog/2016/03/07/resourcenaming/)
 * [Things to consider before choosing implementation for worker thread](https://blog.yipl.com.np/things-to-consider-before-running-background-tasks-e71f00d2ad3a#.fe1auoxur)
+* [Presenters are not for persisting](https://medium.com/@theMikhail/presenters-are-not-for-persisting-f537a2cc7962#.t7fizf93e)
+* [Understanding Android Core: Looper, Handler, and HandlerThread](https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a#.vvz4dudf1)
 
 ### Android Security
 * [How To Make Your Android Application Secured](https://medium.com/uptech-team/how-to-make-your-android-application-secured-21c054b371e7#.vonbsiw88)
@@ -182,6 +185,8 @@ Resources about Android Development
 * [RecyclerView Tips: How we achieved 60 FPS in Workable’s Android Recruiting App](https://blog.workable.com/recyclerview-achieved-60-fps-workables-android-app-tips/)
 * [Epoxy: Airbnb’s View Architecture on Android](https://medium.com/airbnb-engineering/epoxy-airbnbs-view-architecture-on-android-c3e1af150394#.mw0vh53zr)
 * [Grouping Data in recycler view](https://krtkush.github.io/2016/07/08/android-recyclerview-grouping-data.html)
+* [Android Data Binding: RecyclerView](https://medium.com/google-developers/android-data-binding-recyclerview-db7c40d9f0e4#.d9odpzqps)
+* [Using SnapHelper in RecyclerView](https://blog.mindorks.com/using-snaphelper-in-recyclerview-fc616b6833e8#.y3h2elk1d)
 
 ### Making Custom Library and Views
 * [A deep dive into android view constructors](http://blog.danlew.net/2016/07/19/a-deep-dive-into-android-view-constructors/)
