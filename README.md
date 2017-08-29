@@ -1,7 +1,7 @@
 # Android Developer Resources
 Resources about Android Development
 
-#Table of Content
+# Table of Content
 
 ### Structure
 * [Android app architecture](#android-app-architecture)
@@ -56,7 +56,7 @@ Resources about Android Development
 ### Miscellaneous
 * [Miscellaneous](#miscellaneous)
 
-#Structure
+# Structure
 
 ### Android app architecture
 * [Shades of mvvm](https://www.bignerdranch.com/blog/shades-of-mvvm/)
@@ -110,7 +110,7 @@ Resources about Android Development
 * [Hiding Secrets in Android Apps](https://rammic.github.io/2015/07/28/hiding-secrets-in-android-apps/)
 * [Dear Android Developer- This is an intervention about your app's security](https://www.reddit.com/r/androiddev/comments/3dedaj/dear_android_developer_this_is_an_intervention/)
 
-#Networking
+# Networking
 
 ### Retrofit
 * [Basic Retrofit by vogella](http://www.vogella.com/tutorials/Retrofit/article.html)
@@ -162,7 +162,7 @@ Resources about Android Development
 * [A glimpse of Async-Await on Android](https://medium.com/@haarman.niek/async-await-in-android-f0202cf31088#.powk38ajh)
 * [A dive into Async-Await on Android](https://medium.com/@haarman.niek/a-dive-into-async-await-on-android-5a6699029aa3#.1rr6wtuee)
 
-#Views, Layouts, Animations and Custom views
+# Views, Layouts, Animations and Custom views
 
 ### Animation and Vector Drawable's stuff
 * [Animated icons on Android by using vector drawables](https://stories.uplabs.com/animated-icons-on-android-ee635307bd6#.969srmak8)
@@ -197,7 +197,7 @@ Resources about Android Development
 * [Publishig android library aar to maven](http://www.vandalsoftware.com/post/52468430435/publishing-an-android-library-aar-to-a-maven)
 * [Guide to publishing your Android Library via MavenCentral](http://crushingcode.co/publish-your-android-library-via-mavencentral/)
 
-#Application helper tasks
+# Application helper tasks
 
 ### Login and Account Authentication
 * [Refer to This github rxjava project for login-registration demo code](https://github.com/manuelvicnt/RxJava-android-structure)
@@ -215,10 +215,10 @@ Resources about Android Development
 * [Audio (not) playing in Android](https://medium.com/uptech-team/audio-not-playing-in-android-cde9a0fdfafd#.q9u3ivu0q)
 * [Create an Audio Recorder on Android](http://www.ssaurel.com/blog/create-an-audio-recorder-on-android/?utm_source=androiddevdigest)
 
-#App analytics
+# App analytics
 * [The key concepts of app tracking for developers](https://medium.com/@sergii/the-key-concepts-of-app-tracking-for-developers-a11bebf1e65e#.2015w5bka)
 
-#Testing - Unit and production tests
+# Testing - Unit and production tests
 ### Testing
 * [Dan lew's series on testing](http://blog.danlew.net/2013/12/16/testing_on_android_part_1_unit_tests/)
 * [Simple unit tests for android](https://stfalcon.com/en/blog/post/simple-unit-tests-for-android)
@@ -232,16 +232,16 @@ Resources about Android Development
 * [Stress testing android apps](https://medium.com/@mgazar/stress-testing-android-apps-601311ebf590#.k4k0rm810) 
 * [The Ultimate Pre-Release Checklist for Android App Success On Play Store](https://blog.aritraroy.in/the-ultimate-pre-release-checklist-for-android-app-success-on-play-store-cb0eb9f59ce9#.kvq5oq6me)
 
-#Git Resources
+# Git Resources
 * [Git-Play-Love](http://eulercoder.me/blog/open%20source/Git-Play-Love)
 * [Git workflow basics - Going above commit push pull](https://blog.codeminer42.com/git-workflow-basics-d405746f6205#.lwyhvlllv)
 
-#Open Source and stuff
+# Open Source and stuff
 * [Getting started with Open Source](http://eulercoder.me/blog/open%20source/getting-started-with-open-source)
 * [How to get started with Open Source](https://www.hackerearth.com/getstarted-opensource/)
 * [How to find your first open source bug to fix](https://medium.freecodecamp.com/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.jtlai29uz)
 
-#Utility and design libraries
+# Utility and design libraries
 * [Create chat heads like facebook messenger](https://medium.com/@kevalpatel2106/create-chat-heads-like-facebook-messenger-32f7f1a62064#.49f525don) 
 * [App entry feature discovery to teach user about the app](https://github.com/KeepSafe/TapTargetView)
 * [A Tap Target implementation in Android based on Material Design Onboarding guidelines. For more information on tap targets check out the guidelines.](https://github.com/sjwall/MaterialTapTargetPrompt)
@@ -266,22 +266,11 @@ Resources about Android Development
 * [Android library for async data loading from multiple sources](https://github.com/NYTimes/Store)
 * [An imageView can auto scroll with device rotating. ](https://github.com/gjiazhe/PanoramaImageView)
 
-#Proguard
+# Proguard
 * [Useful Proguard snippets](https://github.com/krschultz/android-proguard-snippets)
 
-#Tools for reversing apk for educational purposes
+# Tools for reversing apk for educational purposes
 * [A tool for reverse engineering Android apk files](https://github.com/iBotPeaches/Apktool)
 
-#Miscellaneous
+# Miscellaneous
 * [How To Learn With Open Source API Fundamentals](https://hackernoon.com/how-to-learn-with-open-source-api-fundamentals-1f886383b8e1#.ugnbbbjyl)
-
-
-#To checkout or read
-* https://github.com/ahmedeltaher/MVP-Sample
-* https://github.com/grandcentrix/ThirtyInch
-* https://github.com/adonixis/android-animated-menu-items
-* https://github.com/Yalantis/Euclid
-* https://github.com/mapsme/api-android
-* https://github.com/inloop/AndroidViewModel
-* https://github.com/airbnb/AirMapView
-* https://github.com/mzule/FantasySlide
