@@ -120,7 +120,7 @@ Resources about Android Development
 * [Networking caching pattern with RxJava](http://www.andevcon.com/news/rxify-the-anti-cache-then-network-or-network-then-cache-problem)
 * [OkHttp is quietly retrying requests. Is your API ready?](https://medium.com/inloop/okhttp-is-quietly-retrying-requests-is-your-api-ready-19489ef35ace#.ifu68kx4z)
 
-#RxJava and Kotlin
+# RxJava and Kotlin
 
 ### RxJava
 * [Understanding why you need RxJava and some related terminology](https://medium.com/@Batdroid/understanding-the-enigma-of-rxjava-part-1-8e04a456d9de)
