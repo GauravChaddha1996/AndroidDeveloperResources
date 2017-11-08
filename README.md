@@ -71,7 +71,7 @@ Resources about Android Development
 ### MVP resources
 * [Yet another MVP article — Part 1: Lets get to know the project](https://hackernoon.com/yet-another-mvp-article-part-1-lets-get-to-know-the-project-d3fd553b3e21#.m8tr2xvgw)
 
-#Development patterns, practises and security
+# Development patterns, practises and security
 
 ## Java 8 
 * [Java 8 Streams:10 missing features](https://medium.com/@johnmcclean/java-8-streams-10-missing-features-ec82ee90b6c0#.uonjprdj3)
