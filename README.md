@@ -1,63 +1,6 @@
 # Android Developer Resources
 Resources about Android Development
 
-# Table of Content
-
-### Structure
-* [Android app architecture](#android-app-architecture)
-* [MVP resources](#mvp-resources)
-
-### Development patterns, practises and security
-* [Java 8](#java-8)
-* [Data Binding](#data-binding)
-* [Dependency Injection](#dependency-injection)
-* [Good Practises](#good-practises)
-* [Android Security](#android-security)
-
-### Networking
-* [Retrofit](#retrofit)
-* [Networking](#networking-2)
-
-### RxJava and Kotlin
-* [RxJava](#rxjava)
-* [Kotlin](#kotlin)
-
-### Views, Layouts, Animations and Custom views
-* [Animation and Vector Drawable's stuff](#animation-and-vector-drawables-stuff)
-* [Recycler View](#recycler-view)
-* [Making Custom Library and Views](#making-custom-library-and-views)
-
-### Application helper tasks
-* [Login and Account Authentication](#login-and-account-authentication)
-* [Settings and Preferences](#settings-and-preferences)
-* [Scheduling Jobs and alarms](#scheduling-jobs-and-alarms)
-* [Audio in android](#audio-in-android)
-
-### App analytics
-* [App analytics](#app-analytics)
-
-### Testing - Unit and prodcution tests
-* [Testing](#testing)
-* [App production testing](#app-production-testing)
-
-### Git Resources
-* [Git Resources](#git-resources)
-
-### Open Source and stuff
-* [Open Source and stuff](#open-source-and-stuff)
-
-### Libraries
-* [Utility and design libraries](#utility-and-design-libraries)
-
-### Proguard
-* [Proguard](#proguard)
-* [Tools for reversing apk for educational purposes](#tools-for-reversing-apk-for-educational-purposes)
-
-### Miscellaneous
-* [Miscellaneous](#miscellaneous)
-
-# Structure
-
 ### Android app architecture
 * [Shades of mvvm](https://www.bignerdranch.com/blog/shades-of-mvvm/)
 * [RxJava: Android MVVM app structure with retrofit](https://medium.com/@manuelvicnt/rxjava-android-mvvm-app-structure-with-retrofit-a5605fa32c00#.n1dgvzdjo)
