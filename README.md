@@ -7,7 +7,7 @@ Resources about Android Development
 * Git resources
 * MVP design pattern
 * Android app architecture
-* Retrofit
+* [Retrofit](###Retrofit)
 * Networking
 * RxJava
 * Animation and stuff
@@ -18,7 +18,7 @@ Resources about Android Development
 * Testing
 * App production testing
 
-### Java 8 
+### Java8 
 * [Java 8 Streams:10 missing features](https://medium.com/@johnmcclean/java-8-streams-10-missing-features-ec82ee90b6c0#.uonjprdj3)
 * [Java 8 Language Features on Android](https://medium.com/@muratcanbur/java-8-language-features-on-android-ee8ea414f9f0#.izr0humg0)
 * [Effective Java for Android cheatsheet](https://medium.com/rocknnull/effective-java-for-android-cheatsheet-bf4e3433889a#.zsn2ir0zb)
