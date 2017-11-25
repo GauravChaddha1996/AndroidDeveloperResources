@@ -2,21 +2,21 @@
 Resources about Android Development
 
 # Table of content
-* Java 8
-* Good practises
-* Git resources
-* MVP design pattern
-* Android app architecture
-* [Retrofit](###Retrofit)
-* Networking
-* RxJava
-* Animation and stuff
-* Recycler view
-* Custom libs and views
-* Dependency Injection
-* Android security
-* Testing
-* App production testing
+* [Java 8](#java8)
+* [Good practises](#good-practises)
+* [Git resources](#git-resources)
+* [MVP design pattern](#mvp-design-pattern)
+* [Android app architecture](#android-app-architecture)
+* [Retrofit](#retrofit)
+* [Networking](#networking)
+* [RxJava](#rxjava)
+* [Animation and stuff](#animation-and-stuff)
+* [Recycler view](#recycler-view)
+* [Custom libs and views](#custom-libs-and-views)
+* [Dependency Injection](#dependency-injection)
+* [Android security](#android-security)
+* [Testing](#testing)
+* [App production testing](#app-production-testing)
 
 ### Java8 
 * [Java 8 Streams:10 missing features](https://medium.com/@johnmcclean/java-8-streams-10-missing-features-ec82ee90b6c0#.uonjprdj3)
@@ -42,7 +42,7 @@ Resources about Android Development
 * [Git-Play-Love](http://eulercoder.me/blog/open%20source/Git-Play-Love)
 * [Git workflow basics - Going above commit push pull](https://blog.codeminer42.com/git-workflow-basics-d405746f6205#.lwyhvlllv)
 
-### MVP resources
+### MVP Design Pattern
 * [A journey to the world of MVP and Loaders ( Part 1)](http://chaddhag.com/mvpLoader1)
 * [Yet another MVP article — Part 1: Lets get to know the project](https://hackernoon.com/yet-another-mvp-article-part-1-lets-get-to-know-the-project-d3fd553b3e21#.m8tr2xvgw)
 
@@ -90,7 +90,7 @@ Resources about Android Development
 
 
 
-### Animation and Vector Drawable's stuff
+### Animation and stuff
 * [Animated icons on Android by using vector drawables](https://stories.uplabs.com/animated-icons-on-android-ee635307bd6#.969srmak8)
 * [AnimatedVectorDrawableCompat by Bartek Lipinski](https://android.jlelse.eu/animatedvectordrawablecompat-3d9568727c53#.xde3feipq)
 * [Introductio to icon animation techniques](http://www.androiddesignpatterns.com/2016/11/introduction-to-icon-animation-techniques.html)
@@ -114,7 +114,7 @@ Resources about Android Development
 * [Android Data Binding: RecyclerView](https://medium.com/google-developers/android-data-binding-recyclerview-db7c40d9f0e4#.d9odpzqps)
 * [Using SnapHelper in RecyclerView](https://blog.mindorks.com/using-snaphelper-in-recyclerview-fc616b6833e8#.y3h2elk1d)
 
-### Making Custom Library and Views
+###  Custom Libs and Views
 * [A deep dive into android view constructors](http://blog.danlew.net/2016/07/19/a-deep-dive-into-android-view-constructors/)
 * [How to draw a custom view](https://hackernoon.com/android-draw-a-custom-view-ef79fe2ff54b#.dei8shybf)
 * [Make an android custom view, publish and open source](https://medium.com/dualcores-studio/make-an-android-custom-view-publish-and-open-source-99a3d86df228#.bnjjtd54i)
